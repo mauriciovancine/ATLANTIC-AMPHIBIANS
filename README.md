@@ -21,7 +21,7 @@ Amphibians are among the most threatened vertebrates in the world and this is al
 </p>
 
 <p align="center"> 
-<img src="https://github.com/mauriciovancine/ATLANTIC-Amphibians/blob/master/atlantic_amphibians_map.png" height="600" width="450">
+<img src="https://github.com/mauriciovancine/ATLANTIC-AMPHIBIANS/blob/master/atlantic_amphibians_map.png" height="600" width="450">
 </p>
 
 <p align="justify">
