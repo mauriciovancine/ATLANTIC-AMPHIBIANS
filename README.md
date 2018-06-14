@@ -1,13 +1,7 @@
 # ATLANTIC-AMPHIBIANS
 
 <p align="justify">
-ATLANTIC-AMPHIBIANS dataset is part of the <a href="https://github.com/LEEClab/Atlantic_series">ATLANTIC series</a>, on which research teams are compiling biodiversity information of Atlantic Forest biome. This paper follows previous published data papers in Ecology: 
-<a href="http://onlinelibrary.wiley.com/doi/10.1002/ecy.1818/abstract">ATLANTIC FRUGIVORY</a>: Bello et al. (2017), 
-  <a href="http://onlinelibrary.wiley.com/doi/10.1002/ecy.1893/">ATLANTIC SMALL-MAMMAL</a>: Bovendorp et al. (2017),
-  <a href="http://onlinelibrary.wiley.com/doi/10.1002/ecy.1998/abstract">ATLANTIC CAMPTRAPS</a>: Lima et al. (2017),
-  <a href="http://onlinelibrary.wiley.com/doi/10.1002/ecy.2007/abstract">ATLANTIC BATS</a>: Muylaert et al. (2017),
-  <a href="http://onlinelibrary.wiley.com/doi/10.1002/ecy.2119/abstract">ATLANTIC BIRDS</a>: Hassui et al. (2017),
-  <a href="http://onlinelibrary.wiley.com/doi/10.1002/ecy.2106/abstract">ATLANTIC MAMMAL TRAITS</a>: Gonçalves et al. (2018).
+ATLANTIC-AMPHIBIANS dataset is part of the <a href="https://github.com/LEEClab/Atlantic_series">ATLANTIC series</a>, on which research teams are compiling biodiversity information of Atlantic Forest biome. This paper follows previous published data papers in <a href="https://esajournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1939-9170.AtlanticPapers"Ecology</a>.
 
 The dataset was published in Ecology:
 
@@ -65,5 +59,5 @@ Universidade Estadual Paulista (UNESP), Instituto de Biociências, Departamento 
 Universidade Estadual Paulista (UNESP), Instituto de Biociências, Departamento de Ecologia, Laboratório de Ecologia Espacial e Conservação, Rio Claro, Brazil
 
 --- 
-Muylaert, R. L., M. H. Vancine, R. Bernardo, J. E. F. Oshima, T. Sobral-Souza, V. R. Tonett, B. B. S. Niebuhr, and M. C. Ribeiro. Limites territoriais inclusivos para estudos ecológicos e biogeográficos na Mata Atlântica. Oecologia Australis (under review).
+Muylaert, R. L., M. H. Vancine, R. Bernardo, J. E. F. Oshima, T. Sobral-Souza, V. R. Tonett, B. B. S. Niebuhr, and M. C. Ribeiro. Limites territoriais inclusivos para estudos ecológicos e biogeográficos na Mata Atlântica. Oecologia Australis (in press).
 </p>
