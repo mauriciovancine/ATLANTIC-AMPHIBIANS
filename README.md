@@ -5,7 +5,7 @@ ATLANTIC-AMPHIBIANS dataset is part of the <a href="https://github.com/LEEClab/A
 
 The dataset was published in Ecology:
 
-Vancine, M. H., K. S. Duarte, Y. S. Souza, J. G. R. Giovanelli, P. M. M. Sobrinho, A. López, R. P. Bovo, F. Maffei, M. B. Lion, J. W. Ribeiro-Júnior, R. Brassaloti, C. Ortiz, H. O. Sawakuchi, J. Bertoluci, L. R. Forti, P. Cacciali, C. F. B. Haddad, and M. C. Ribeiro. ATLANTIC AMPHIBIANS. A Dataset of Amphibian Communities from the Atlantic Forests of South America. Ecology (in press).
+Vancine, M. H., K. S. Duarte, Y. S. Souza, J. G. R. Giovanelli, P. M. M. Sobrinho, A. López, R. P. Bovo, F. Maffei, M. B. Lion, J. W. Ribeiro-Júnior, R. Brassaloti, C. Ortiz, H. O. Sawakuchi, J. Bertoluci, L. R. Forti, P. Cacciali, C. F. B. Haddad, and M. C. Ribeiro. ATLANTIC AMPHIBIANS. A Dataset of Amphibian Communities from the Atlantic Forests of South America. Ecology 99(7):1692. https://doi.org/10.1002/ecy.2392
 </p>
 
 ### Abstract
